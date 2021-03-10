@@ -1,4 +1,14 @@
 # Comunicado Interno e Banco de Horas
+---
+
+# Configuração:
+Após clonar o git: 
+    
+    Executar composer install
+    Alterar o .env.example para .env
+    Executar php artisan key:generate
+    Configurar .env
+
 
 Para o primeiro acesso é necessária a criação de um usuário administrador direto no banco de dados.
 
