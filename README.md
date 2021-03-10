@@ -8,6 +8,7 @@ Após clonar o git:
     Alterar o .env.example para .env
     Executar php artisan key:generate
     Configurar .env
+    Executar php artisan migrate
 
 
 Para o primeiro acesso é necessária a criação de um usuário administrador direto no banco de dados.
